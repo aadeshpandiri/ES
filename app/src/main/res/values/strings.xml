@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ES</string>
+
+
+    <string-array name="categories">
+        <item>Daily Wage Labour</item>
+        <item>Clerks</item>
+        <item>Attenders</item>
+        <item>Supervisors</item>
+        <item>Accountants</item>
+        <item>Construction</item>
+        <item>Electrician</item>
+        <item>Plumbers</item>
+        <item>Mechanics</item>
+        <item>Drivers</item>
+        <item>Cleaners</item>
+    </string-array>
+
+</resources>
